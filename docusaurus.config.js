@@ -9,12 +9,12 @@ const config = {
   title: 'TIL',
   tagline: 'Dinosaurs are cool',
   url: 'https://chobobdev.github.io/',
-  baseUrl: '/TIL/',
+  baseUrl: '/til/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/gopherb.ico',
   organizationName: 'chobobdev', // Usually your GitHub org/user name.
-  projectName: 'TIL', // Usually your repo name.
+  projectName: 'til', // Usually your repo name.
 
   presets: [
     [
@@ -25,7 +25,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           // Please change this to your repo.
-          editUrl: 'https://github.com/chobobdev/TIL/edit/main/website/',
+          editUrl: 'https://github.com/chobobdev/til/edit/main/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -45,7 +45,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/chobobdev/TIL',
+            href: 'https://github.com/chobobdev/til',
             label: 'GitHub',
             position: 'right',
           },
