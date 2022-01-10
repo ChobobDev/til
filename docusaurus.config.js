@@ -41,7 +41,7 @@ const config = {
         title: 'TIL',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/gopherb.svg',
         },
         items: [
           {
