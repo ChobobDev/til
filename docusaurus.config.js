@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/TIL/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/gopherb.ico',
   organizationName: 'chobobdev', // Usually your GitHub org/user name.
   projectName: 'TIL', // Usually your repo name.
 
