@@ -13,9 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/gopherb.ico',
-  organizationName: 'chobobdev', // Usually your GitHub org/user name.
-  projectName: 'til', // Usually your repo name.
-
+  organizationName: 'chobobdev', 
+  projectName: 'til', 
   presets: [
     [
       '@docusaurus/preset-classic',
